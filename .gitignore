@@ -1,0 +1,28 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+
+# Virtualenv
+.venv/
+env/
+venv/
+.Trash-185/
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+
+parquet/
