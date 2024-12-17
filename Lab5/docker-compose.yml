@@ -11,3 +11,4 @@ services:
       - "4040:4040"
     volumes:
       - ./apps:/opt/spark/work-dir
+      - ./airflow:/home/spark/airflow
